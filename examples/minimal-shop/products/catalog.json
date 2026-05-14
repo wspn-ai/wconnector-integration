@@ -1,0 +1,16 @@
+[
+  {
+    "id": 202,
+    "name": "Address Risk Profile",
+    "description": "One detailed behavioral risk profile. Flags phishing, money laundering, honeypot association.",
+    "price_usd": 0.6,
+    "stock": 10000,
+    "image_url": "",
+    "delivery": {
+      "type": "mcp_call_token",
+      "tool_name": "address_risk_profile",
+      "calls_per_unit": 1,
+      "ttl_hours": 24
+    }
+  }
+]
