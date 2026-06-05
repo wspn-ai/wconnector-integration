@@ -2,6 +2,8 @@
 
 > **中文版本 → [README.zh-CN.md](README.zh-CN.md)**
 
+> 🎁 **Early-adopter incentive** — early integration partners and merchants who onboard during the launch phase can apply for a **$500 incentive**. Get your shop live and reach out to claim it.
+
 Integration kit for **selling your API/MCP tool to AI agents** via the W Connector network. Self-service onboarding, stablecoin settlement on Ethereum/Base/Tron/Solana, no platform custody of your funds.
 
 ```
